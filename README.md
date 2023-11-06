@@ -18,4 +18,4 @@ Contact Page:
 
 The contact page features a contact form, location map, and contact details. Users can submit inquiries or schedule appointments directly from this page.
 
-![alt text](https://github.com/sinyozz/realestatedemosite/blob/main/assets/images/real-banner.png)
+![alt text]("https://github.com/sinyozz/realestatedemosite/blob/main/assets/images/real-banner.png")
