@@ -17,5 +17,5 @@ Clicking on a specific property takes users to a detailed page with more informa
 Contact Page:
 
 The contact page features a contact form, location map, and contact details. Users can submit inquiries or schedule appointments directly from this page.
+![Screen Shot 2019-09-12 at 12 03 50 PM](https://github.com/sinyozz/realestatedemosite/blob/main/assets/images/real-banner.png)
 
-![alt text]("https://github.com/sinyozz/realestatedemosite/blob/main/assets/images/real-banner.png")
